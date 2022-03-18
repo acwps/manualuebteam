@@ -4,9 +4,9 @@
 
 - Automatize a gestão dos colaboradores 
 
-- (A forma mais simples e eficaz de marcar férias) 
+- A forma mais eficaz de gerir férias, ausências, ocupação de salas e viaturas da sua empresa
 
- - Com este “Manual”, temos como objetivo explicar aos utilizadores o funcionamento eficaz da app 
+ - Com este “Manual”, temos como objetivo explicar aos utilizadores o funcionamento eficaz da aplicação
  
 
 
