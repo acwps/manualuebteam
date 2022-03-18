@@ -12,7 +12,7 @@
 - (Veja como pode fazer na apresentação a seguir). 
 
 
-![Gif](/imagem/12.gif)
+![Gif](/manual/imagem/12.gif)
 
 
 
