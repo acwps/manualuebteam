@@ -104,7 +104,7 @@
 
 - Pode criar uma sala, por exemplo, sala de formação, reuniões, auditório. Com esta app, pode agendar a um dia e a uma hora, ficando registado na app, que nessa altura a sala estará ocupada. Para criar a sala, “Empresa” - “Salas”. 
 
-- Para criares uma sala, apenas terás de dar um nome a essa sala e teráa sua sala pronta. Mais tarde poderá agendas a sala, clica [aqui](/empresa.md/) para ver como pode fazer.
+- Para criar uma sala, apenas terá de dar um nome a essa sala e terá a sua sala pronta. Mais tarde poderá agendar a sala, clique [aqui](/empresa.md/) para ver como pode fazer.
 
 - (Veja como pode fazer na apresentação a seguir).  
 
