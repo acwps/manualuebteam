@@ -6,7 +6,7 @@
 
 - A forma mais eficaz de gerir férias, ausências, ocupação de salas e viaturas da sua empresa
 
- - Com este “Manual”, temos como objetivo explicar aos utilizadores o funcionamento eficaz da Uebteam
+ - Com este “Manual”, temos como objetivo explicar aos utilizadores o funcionamento eficaz do UEBTEAM
  
  
 
